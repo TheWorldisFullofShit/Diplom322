@@ -1,0 +1,64 @@
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe.config
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.pdb
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.Form1.resources
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.Properties.Resources.resources
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csproj.GenerateResource.Cache
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.exe
+C:\Users\Екатерина\Documents\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.pdb
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe.config
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.exe
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.pdb
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.pdb
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\Npgsql.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormLogin.resources
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormRequest.resources
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSolution.resources
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSend.resources
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Desktop\Шабалин\WorkWithRequest\WorkWithRequest\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe.config
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.exe
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.pdb
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormRequest.resources
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormLogin.resources
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSend.resources
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSolution.resources
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.Properties.Resources.resources
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csproj.GenerateResource.Cache
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.pdb
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Виталий\Desktop\WorkWithRequest\WorkWithRequest\WorkWithRequest\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe.config
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.exe
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.pdb
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.exe
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\bin\Debug\WorkWithRequest.pdb
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormRequest.resources
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormLogin.resources
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSend.resources
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.FormSolution.resources
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.Properties.Resources.resources
+C:\Users\Виталий\Desktop\WorkWithRequest - копия\WorkWithRequest\WorkWithRequest\obj\Debug\WorkWithRequest.csproj.GenerateResource.Cache
